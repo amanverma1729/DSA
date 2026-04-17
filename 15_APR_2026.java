@@ -1,4 +1,4 @@
-//319.  Bulb Switcher
+//leetcode problem no:319  Bulb Switcher
 class Solution {
     public int bulbSwitch(int n) {
         int i=1;
