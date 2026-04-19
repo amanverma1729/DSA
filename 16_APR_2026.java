@@ -1,3 +1,5 @@
+//Question link: https://leetcode.com/problems/the-kth-factor-of-n/description/
+
 class Solution {
     public int kthFactor(int n, int k) {
         int count = 0;
